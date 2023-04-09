@@ -2,7 +2,7 @@
 
 FoodieFinder is an expo react native mobile application that allows users to search for restaurants in their proximity.  
 
-Get Started
+#Getting Started
 
 1. Download a LTS version of Node.js and npm if not already installed from https://nodejs.org/.
 
